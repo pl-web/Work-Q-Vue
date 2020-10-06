@@ -1,5 +1,5 @@
 {
-  "name": "vue-demo",
+  "name": "demo01",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "it-reader <hnature@126.com>",
@@ -10,6 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "async-validate": "^1.0.1",
+    "async-validator": "^3.4.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
